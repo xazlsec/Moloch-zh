@@ -1,5 +1,5 @@
 # Moloch-zh
-:monkey_face:Moloch introduction and deployment, manual in Chinese ：)..
+:monkey_face:Moloch introduction and deployment, manual in Chinese.
 
 ### 关于
 
