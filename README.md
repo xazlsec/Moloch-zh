@@ -19,3 +19,7 @@
 >https://github.com/aol/moloch/wiki/FAQ
 
 >https://github.com/aol/moloch/wiki/Settings
+
+###  :ear_of_rice: 贡献者
+Cherishao
+Aloha
