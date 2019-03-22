@@ -7,14 +7,15 @@ Moloch introduction and deployment, manual in Chinese
 
 #### 指南
 
-**Moloch 介绍及部署指南**：
+​:star2:​ **Moloch 介绍及部署指南**
 
 > https://mp.weixin.qq.com/s/irYv_U1qew33vAf_9lCbFg
 
-Moloch 中文非官方手册:
+​:star2:​ **Moloch 中文非官方手册**
 
 > https://mp.weixin.qq.com/s/KldtypeMip-r1JBw8XPtuw
 
 #### 参考链接
 >https://github.com/aol/moloch/wiki/FAQ
+
 >https://github.com/aol/moloch/wiki/Settings
